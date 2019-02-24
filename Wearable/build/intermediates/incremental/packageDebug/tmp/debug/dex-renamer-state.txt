@@ -1,4 +1,4 @@
-#Sun Feb 24 19:49:50 JST 2019
+#Sun Feb 24 21:20:09 JST 2019
 path.1=classes.dex
 path.0=classes.dex
 renamed.10=classes11.dex
@@ -10,19 +10,19 @@ renamed.5=classes6.dex
 renamed.4=classes5.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
-base.9=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+base.9=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\11
 renamed.1=classes2.dex
-base.8=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.8=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\20
 renamed.0=classes.dex
-base.7=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\16
-base.6=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\11
-base.5=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\14
-base.4=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\20
-base.3=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\12
-base.2=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\21
-base.1=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\19
-base.0=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\17
-base.10=R\:\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.7=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+base.6=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\12
+base.5=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\13
+base.4=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\21
+base.3=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\19
+base.2=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+base.1=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\17
+base.0=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\14
+base.10=D\:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\transforms\\dexMerger\\debug\\18
 path.10=classes.dex
 path.9=classes.dex
 path.8=classes.dex

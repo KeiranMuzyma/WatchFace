@@ -47,9 +47,8 @@ android {
 
     compileSdkVersion 26
 
-    buildToolsVersion "27.0.3"
 
-    defaultConfig {
+	defaultConfig {
         versionCode 1
         versionName "1.0"
 

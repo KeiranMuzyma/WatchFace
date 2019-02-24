@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "R:\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "R:\\WatchFace\\Wearable\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "source": "D:\\AndroidStudioProjects\\WatchFace\\Wearable\\src\\main\\res\\values-hdpi\\dimens.xml",
                     "from": {
                         "startLines": "16,18,17,19",
                         "startColumns": "4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "R:\\WatchFace\\Wearable\\src\\main\\res\\values-hdpi\\styles.xml",
+                    "source": "D:\\AndroidStudioProjects\\WatchFace\\Wearable\\src\\main\\res\\values-hdpi\\styles.xml",
                     "from": {
                         "startLines": "17",
                         "startColumns": "4",

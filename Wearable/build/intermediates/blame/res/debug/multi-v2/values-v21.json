@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "R:\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kenzy\\.gradle\\caches\\transforms-1\\files-1.1\\wearable-2.3.0.aar\\b906829dcedb09e9244127e2577fa823\\res\\values-v21\\values.xml",

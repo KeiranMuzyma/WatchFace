@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "R:\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kenzy\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-15.0.1.aar\\05848c1cf48b60aca0f04816d9c36620\\res\\values-bn\\values.xml",

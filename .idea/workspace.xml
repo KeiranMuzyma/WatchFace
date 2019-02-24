@@ -1,15 +1,854 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4693acbf-5218-40a3-8448-e581a701d401" name="Default Changelist" comment="" />
+    <list default="true" id="4693acbf-5218-40a3-8448-e581a701d401" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Kenzy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AndroidWear_Connect.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Application/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Application/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WatchFace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WatchFace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-280dpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-280dpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-360dpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-360dpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-af.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-af.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-am.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-am.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ar.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-az.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-az.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-b+es+419.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-b+es+419.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-b+sr+Latn.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-b+sr+Latn.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-be.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-be.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-bg.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-bg.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-bn.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-bn.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-bs.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-bs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ca.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ca.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-cs.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-cs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-da.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-da.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-de.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-el.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-el.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-en-rAU.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-en-rAU.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-en-rGB.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-en-rGB.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-en-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-en-rIN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-es-rUS.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-es-rUS.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-es.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-es.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-et.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-et.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-eu.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-eu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-fa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-fi.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-fi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-fr-rCA.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-fr-rCA.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-fr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-gl.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-gl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-gu.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-gu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-hdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-hi.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-hi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-hr.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-hr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-hu.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-hu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-hy.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-hy.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-in.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-in.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-is.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-is.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-it.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-it.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-iw.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-iw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ja.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ja.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ka.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ka.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-kk.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-kk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-km.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-km.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-kn.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-kn.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ko.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ko.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ky.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ky.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-lo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-lo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-lt.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-lt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-lv.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-lv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-mk.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-mk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ml.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ml.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-mn.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-mn.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-mr.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-mr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ms.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ms.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-my.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-my.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-nb.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-nb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ne.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ne.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-nl.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-nl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-notround-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-notround-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-pa.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-pa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-pl.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-pl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-port.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-port.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-pt-rBR.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-pt-rBR.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-pt-rPT.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-pt.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-pt.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ro.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-round-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-round-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-si.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-si.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sk.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sl.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sq.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sq.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sr.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sv.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sv.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sw.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sw180dp-notround-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sw180dp-notround-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sw210dp-round-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sw210dp-round-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sw210dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-sw210dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ta.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ta.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-te.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-te.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-th.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-th.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-tl.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-tl.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-tr.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-tr.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-uk.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-uk.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ur.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-ur.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-uz.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-uz.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-v16.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-v16.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-v20.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-v20.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-v21.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-v23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-v24.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-v24.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-vi.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-vi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w160dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w160dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w180dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w180dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w192dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w192dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w205dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w205dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w225dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w225dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w228dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w228dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w240dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w240dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-xhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-xhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-zh-rCN.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-zh-rHK.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-zh-rHK.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-zh-rTW.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-zh-rTW.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-zu.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values-zu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/build-info/debug/build-info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/build-info/debug/build-info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/debug-mergeJniLibs/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/2lds+L0an6HuVcgmGF8tzgEieUA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/8x3Suck6xmUXBbEQDwpBXraYP_I=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/incremental/processInstantRunDebugResourcesApk/package_resources-debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/instant-run-apk/debug/Wearable-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/instant-run-apk/debug/Wearable-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/instant_run_app_info_output_file/debug/generateDebugInstantRunAppInfo/instant-run-bootstrap.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/instant_run_app_info_output_file/debug/generateDebugInstantRunAppInfo/instant-run-bootstrap.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_add_complication.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_add_complication.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_added_complication.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_added_complication.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_added_long_text_complication.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_added_long_text_complication.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_settings_overlay.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_settings_overlay.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_settings_preview_placeholder.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_settings_preview_placeholder.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_untappable_complication.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-360dpi_untappable_complication.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_add_complication.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_add_complication.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_added_complication.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_added_complication.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_bg.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_bg.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_expand_less_white_18dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_expand_less_white_18dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_expand_more_white_18dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_expand_more_white_18dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_landscape_white.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_landscape_white.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_lock_open_white_24dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_lock_open_white_24dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_notifications_off_white_24dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_notifications_off_white_24dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_notifications_white_24dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_ic_notifications_white_24dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_icn_complications.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_icn_complications.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_icn_styles.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_icn_styles.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_analog_complication.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_analog_complication.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_analog_complication_circular.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_analog_complication_circular.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_digital.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_digital.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_digital_circular.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_digital_circular.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_interactive.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_interactive.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_interactive_circular.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_interactive_circular.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_opengl.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_opengl.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_opengl_circular.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-hdpi_preview_opengl_circular.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_expand_less_white_18dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_expand_less_white_18dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_expand_more_white_18dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_expand_more_white_18dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_landscape_white.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_landscape_white.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_lock_open_white_24dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_lock_open_white_24dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_notifications_off_white_24dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_notifications_off_white_24dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_notifications_white_24dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-mdpi_ic_notifications_white_24dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_added_long_text_complication.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_added_long_text_complication.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_complications_left_dial.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_complications_left_dial.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_complications_right_dial.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_complications_right_dial.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_expand_less_white_18dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_expand_less_white_18dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_expand_more_white_18dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_expand_more_white_18dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_landscape_white.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_landscape_white.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_lock_open_white_24dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_lock_open_white_24dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notifications_off_white_24dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notifications_off_white_24dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notifications_white_24dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notifications_white_24dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_icn_complications.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xhdpi_icn_complications.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_expand_less_white_18dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_expand_less_white_18dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_expand_more_white_18dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_expand_more_white_18dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_lock_open_white_24dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_lock_open_white_24dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_icn_complications.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxhdpi_icn_complications.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_expand_less_white_18dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_expand_less_white_18dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_expand_more_white_18dp.png.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_expand_more_white_18dp.png.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable_settings_watch_face_preview_arms_and_ticks.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable_settings_watch_face_preview_arms_and_ticks.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable_settings_watch_face_preview_background.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable_settings_watch_face_preview_background.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable_settings_watch_face_preview_highlight.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/drawable_settings_watch_face_preview_highlight.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_activity_analog_complication_config.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_activity_analog_complication_config.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_activity_color_selection_config.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_activity_color_selection_config.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_activity_digital_config.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_activity_digital_config.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_color_config_list_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_color_config_list_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_config_list_background_complication_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_config_list_background_complication_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_config_list_color_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_config_list_color_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_config_list_more_options_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_config_list_more_options_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_config_list_preview_and_complications_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_config_list_preview_and_complications_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_config_list_unread_notif_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_config_list_unread_notif_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_digital_color_picker_item.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/layout_digital_color_picker_item.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-280dpi-v4_values-280dpi-v4.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-280dpi-v4_values-280dpi-v4.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-360dpi-v4_values-360dpi-v4.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-360dpi-v4_values-360dpi-v4.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-af_values-af.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-am_values-am.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ar_values-ar.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-az_values-az.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-az_values-az.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-b+es+419_values-b+es+419.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-b+es+419_values-b+es+419.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-be_values-be.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-bg_values-bg.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-bn_values-bn.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-bs_values-bs.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ca_values-ca.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-cs_values-cs.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-da_values-da.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-de_values-de.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-el_values-el.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-en-rAU_values-en-rAU.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-en-rGB_values-en-rGB.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-en-rIN_values-en-rIN.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-es-rUS_values-es-rUS.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-et_values-et.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-eu_values-eu.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-fa_values-fa.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-fi_values-fi.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-fr-rCA_values-fr-rCA.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-fr_values-fr.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-gl_values-gl.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-gu_values-gu.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-hi_values-hi.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-hr_values-hr.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-hu_values-hu.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-hy_values-hy.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-in_values-in.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-is_values-is.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-it_values-it.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-iw_values-iw.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ka_values-ka.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-kk_values-kk.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-km_values-km.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-kn_values-kn.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ky_values-ky.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-lo_values-lo.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-lv_values-lv.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-mk_values-mk.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ml_values-ml.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-mn_values-mn.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-mr_values-mr.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ms_values-ms.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-my_values-my.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-nb_values-nb.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ne_values-ne.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-nl_values-nl.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-notround-v23_values-notround-v23.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-notround-v23_values-notround-v23.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-pa_values-pa.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-pl_values-pl.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-port_values-port.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-port_values-port.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-pt-rBR_values-pt-rBR.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-pt-rPT_values-pt-rPT.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-pt_values-pt.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ro_values-ro.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-round-v23_values-round-v23.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-round-v23_values-round-v23.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ru_values-ru.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-si_values-si.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sk_values-sk.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sl_values-sl.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sq_values-sq.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sr_values-sr.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sv_values-sv.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sw180dp-notround-v23_values-sw180dp-notround-v23.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sw180dp-notround-v23_values-sw180dp-notround-v23.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sw210dp-round-v23_values-sw210dp-round-v23.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sw210dp-round-v23_values-sw210dp-round-v23.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sw210dp-v13_values-sw210dp-v13.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sw210dp-v13_values-sw210dp-v13.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-sw_values-sw.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ta_values-ta.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-te_values-te.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-th_values-th.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-tl_values-tl.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-tr_values-tr.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-uk_values-uk.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-ur_values-ur.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-v16_values-v16.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-v20_values-v20.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-v20_values-v20.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-v24_values-v24.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-v24_values-v24.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-vi_values-vi.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w160dp-v13_values-w160dp-v13.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w160dp-v13_values-w160dp-v13.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w180dp-v13_values-w180dp-v13.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w180dp-v13_values-w180dp-v13.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w192dp-v13_values-w192dp-v13.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w192dp-v13_values-w192dp-v13.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w205dp-v13_values-w205dp-v13.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w205dp-v13_values-w205dp-v13.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w225dp-v13_values-w225dp-v13.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w225dp-v13_values-w225dp-v13.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w228dp-v13_values-w228dp-v13.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w228dp-v13_values-w228dp-v13.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w240dp-v13_values-w240dp-v13.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w240dp-v13_values-w240dp-v13.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-xhdpi-v4_values-xhdpi-v4.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-xhdpi-v4_values-xhdpi-v4.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-zh-rCN_values-zh-rCN.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-zh-rTW_values-zh-rTW.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values-zu_values-zu.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/xml_watch_face.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/res/merged/debug/xml_watch_face.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/resources/instant-run/debug/resources-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/resources/instant-run/debug/resources-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/split-apk/debug/slices/slice_0.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/split-apk/debug/slices/slice_1.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/split-apk/debug/slices/slice_2.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/split-apk/debug/slices/slice_3.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/split-apk/debug/slices/slice_4.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/split-apk/debug/slices/slice_5.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/split-apk/debug/slices/slice_6.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/split-apk/debug/slices/slice_7.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/split-apk/debug/slices/slice_8.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/split-apk/debug/slices/slice_9.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/10.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/10.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/100.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/101.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/102.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/106.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/107.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/108.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/11.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/11.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/110.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/111.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/112.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/113.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/114.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/115.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/116.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/117.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/118.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/119.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/12.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/120.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/121.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/122.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/123.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/124.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/125.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/126.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/127.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/128.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/129.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/13.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/13.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/130.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/131.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/132.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/133.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/134.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/135.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/136.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/137.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/138.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/139.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/14.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/14.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/140.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/141.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/142.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/143.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/144.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/145.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/146.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/147.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/148.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/149.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/15.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/15.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/150.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/151.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/152.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/153.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/154.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/155.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/156.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/157.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/158.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/159.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/16.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/16.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/160.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/161.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/162.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/163.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/164.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/165.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/166.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/167.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/168.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/169.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/170.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/172.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/173.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/177.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/179.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/18.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/18.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/180.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/182.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/183.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/184.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/186.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/189.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/19.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/19.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/190.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/195.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/197.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/198.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/199.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/20.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/20.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/201.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/203.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/204.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/205.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/208.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/209.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/21.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/21.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/210.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/211.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/212.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/213.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/214.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/215.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/216.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/217.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/218.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/219.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/22.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/22.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/220.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/221.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/222.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/223.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/224.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/225.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/226.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/228.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/229.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/23.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/23.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/231.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/232.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/233.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/234.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/237.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/238.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/24.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/24.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/242.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/243.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/244.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/246.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/247.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/249.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/250/android/support/v7/recyclerview/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/arch/lifecycle/livedata/core/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/coreutils/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v4/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/android/support/v7/palette/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/251/com/google/android/gms/tasks/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/coreui/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/percent/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$array.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$fraction.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/android/support/wear/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/com/google/android/gms/base/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/com/google/android/gms/base/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/com/google/android/gms/base/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/com/google/android/gms/base/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/com/google/android/gms/base/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/com/google/android/gms/base/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/com/google/android/gms/base/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/com/google/android/gms/common/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/com/google/android/gms/common/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/252/com/google/android/gms/common/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/253/android/arch/core/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/254/android/arch/lifecycle/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/fragment/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/android/support/mediacompat/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/com/example/android/wearable/watchface/provider/ComplicationToggleReceiver.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/255/com/example/android/wearable/watchface/provider/IncrementingNumberComplicationProviderService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/android/support/constraint/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/android/support/constraint/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/android/support/constraint/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/android/support/constraint/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService$Engine$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService$Engine$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService$Engine.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService$Engine$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService$Engine$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService$Engine$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService$Engine.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/InteractiveWatchFaceService$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/InteractiveWatchFaceService$Engine.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/InteractiveWatchFaceService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/OpenGLWatchFaceService$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/OpenGLWatchFaceService$Engine$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/OpenGLWatchFaceService$Engine.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/example/android/wearable/watchface/watchface/OpenGLWatchFaceService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/256/com/google/android/gms/wearable/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/257/android/support/v13/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/arch/lifecycle/viewmodel/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$anim.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$animator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$array.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$fraction.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$interpolator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$plurals.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/android/support/wearable/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$anim.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$animator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$array.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$fraction.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$interpolator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$plurals.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R$xml.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/AnalogComplicationConfigActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/AnalogComplicationConfigRecyclerViewAdapter$BackgroundComplicationViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/AnalogComplicationConfigRecyclerViewAdapter$ColorPickerViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/AnalogComplicationConfigRecyclerViewAdapter$ComplicationLocation.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/AnalogComplicationConfigRecyclerViewAdapter$MoreOptionsViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/AnalogComplicationConfigRecyclerViewAdapter$PreviewAndComplicationsViewHolder$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/AnalogComplicationConfigRecyclerViewAdapter$PreviewAndComplicationsViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/AnalogComplicationConfigRecyclerViewAdapter$UnreadNotificationViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/AnalogComplicationConfigRecyclerViewAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/ColorSelectionActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/ColorSelectionRecyclerViewAdapter$ColorViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/ColorSelectionRecyclerViewAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/DigitalWatchFaceConfigListenerService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity$ColorItem.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity$ColorItemViewHolder.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity$ColorListAdapter.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/util/DigitalWatchFaceUtil$1.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/util/DigitalWatchFaceUtil$2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/util/DigitalWatchFaceUtil$3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/util/DigitalWatchFaceUtil$DataItemResultCallback.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/util/DigitalWatchFaceUtil$FetchConfigDataMapCallback.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/util/DigitalWatchFaceUtil.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/util/Gles2ColoredTriangleList$Program.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/258/com/example/android/wearable/watchface/util/Gles2ColoredTriangleList.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$attr.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$bool.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$color.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$dimen.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$drawable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$id.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$integer.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$layout.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$string.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$style.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R$styleable.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/android/support/compat/R.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/com/example/android/wearable/watchface/model/AnalogComplicationConfigData$BackgroundComplicationConfigItem.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/com/example/android/wearable/watchface/model/AnalogComplicationConfigData$ColorConfigItem.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/com/example/android/wearable/watchface/model/AnalogComplicationConfigData$ConfigItemType.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/com/example/android/wearable/watchface/model/AnalogComplicationConfigData$MoreOptionsConfigItem.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/com/example/android/wearable/watchface/model/AnalogComplicationConfigData$PreviewAndComplicationsConfigItem.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/com/example/android/wearable/watchface/model/AnalogComplicationConfigData$UnreadNotificationConfigItem.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/259/com/example/android/wearable/watchface/model/AnalogComplicationConfigData.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/260.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/261.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/262.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/263.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/264.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/265.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/266.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/267.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/268.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/269.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/271.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/31.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/33.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/35.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/35.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/36.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/36.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/37.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/37.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/38.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/38.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/39.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/39.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/40.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/40.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/41.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/41.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/42.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/42.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/43.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/43.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/44.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/44.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/45.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/46.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/46.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/47.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/48.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/49.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/50.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/51.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/52.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/53.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/54.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/55.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/56.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/57.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/58.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/59.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/60.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/62.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/63.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/64.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/65.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/66.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/67.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/68.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/69.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/70.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/71.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/72.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/73.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/74.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/75.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/76.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/77.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/78.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/79.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/8.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/8.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/80.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/81.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/82.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/83.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/84.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/85.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/86.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/87.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/88.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/89.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/9.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/9.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/1/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/2/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/3/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/4/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/5/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/5/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/6/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/7/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/8/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/9/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/config/AnalogComplicationConfigActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/config/AnalogComplicationConfigActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/config/ColorSelectionActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/config/ColorSelectionActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/config/DigitalWatchFaceConfigListenerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/config/DigitalWatchFaceConfigListenerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity$ColorItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity$ColorItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/config/DigitalWatchFaceWearableConfigActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/provider/IncrementingNumberComplicationProviderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/provider/IncrementingNumberComplicationProviderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService$Engine$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService$Engine$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService$Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService$Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/AnalogComplicationWatchFaceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService$Engine$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService$Engine$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService$Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService$Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/DigitalWatchFaceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/InteractiveWatchFaceService$Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/InteractiveWatchFaceService$Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/InteractiveWatchFaceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/InteractiveWatchFaceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/OpenGLWatchFaceService$Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/OpenGLWatchFaceService$Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/OpenGLWatchFaceService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/instantRun/debug/0/com/example/android/wearable/watchface/watchface/OpenGLWatchFaceService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/mergeJavaRes/debug/0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wearable/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Wearable/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -22,16 +861,50 @@
     <session id="-783327510">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="2" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="WatchFace" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>R:\WatchFace</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="144" />
@@ -67,26 +940,21 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource AndroidView="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
-            <path>
-              <item name="WatchFace" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Application" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="WatchFace" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Wearable" type="feadf853:AndroidModuleNode" />
-            </path>
             <path>
               <item name="WatchFace" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -98,6 +966,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="AndroidTargetDevices" value="127.0.0.1:51515" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -251,7 +1120,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wearable" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="Wearable" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Wearable" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -337,28 +1206,46 @@
       <option name="presentableId" value="Default" />
       <updated>1551007883189</updated>
     </task>
+    <task id="LOCAL-00001" summary="first.">
+      <created>1551010433823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551010433823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="900" extended-state="6" />
     <layout>
       <window_info id="Captures" order="0" show_stripe_button="false" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.6755448" visible="true" weight="0.21456185" />
-      <window_info id="Structure" order="3" sideWeight="0.6755448" weight="0.20489691" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.66950184" visible="true" weight="0.22100516" />
+      <window_info id="Structure" order="3" sideWeight="0.673147" weight="0.20489691" />
       <window_info id="Build Variants" order="4" show_stripe_button="false" side_tool="true" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Capture Tool" order="6" />
-      <window_info id="Favorites" order="7" sideWeight="0.3244552" side_tool="true" visible="true" weight="0.21456185" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49935567" weight="0.32882273" />
-      <window_info anchor="bottom" id="TODO" order="2" />
-      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.5006443" side_tool="true" weight="0.32882273" />
+      <window_info id="Favorites" order="7" sideWeight="0.3304982" side_tool="true" visible="true" weight="0.22100516" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Debug" order="1" sideWeight="0.5869845" weight="0.47023088" />
+      <window_info anchor="bottom" id="Logcat" order="2" sideWeight="0.49871135" weight="0.51358694" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49871135" weight="0.7595109" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32880434" />
+      <window_info anchor="bottom" id="Android Profiler" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.5923913" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.41301546" side_tool="true" weight="0.47023088" />
+      <window_info anchor="bottom" id="Build" order="8" sideWeight="0.50128865" side_tool="true" weight="0.51358694" />
+      <window_info anchor="bottom" id="Find" order="9" sideWeight="0.49871135" weight="0.32928312" />
       <window_info anchor="right" id="Device File Explorer" order="0" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -368,6 +1255,75 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="first." />
+    <option name="LAST_COMMIT_MESSAGE" value="first." />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Wearable/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding>
+            <element signature="e#39#670#0" />
+            <element signature="e#671#9751#0" />
+            <element signature="e#1239#9738#0" />
+            <element signature="e#1425#1519#0" />
+            <element signature="e#1528#1647#0" />
+            <element signature="e#1656#1746#0" />
+            <element signature="e#1756#2823#0" />
+            <element signature="e#1928#2039#0" />
+            <element signature="e#2052#2192#0" />
+            <element signature="e#2205#2363#0" />
+            <element signature="e#2376#2562#0" />
+            <element signature="e#2575#2804#0" />
+            <element signature="e#2833#4022#0" />
+            <element signature="e#3089#3200#0" />
+            <element signature="e#3213#3366#0" />
+            <element signature="e#3379#3550#0" />
+            <element signature="e#3563#3761#0" />
+            <element signature="e#3774#4003#0" />
+            <element signature="e#4134#4641#0" />
+            <element signature="e#4282#4621#0" />
+            <element signature="e#4651#5581#0" />
+            <element signature="e#4847#4967#0" />
+            <element signature="e#4980#5134#0" />
+            <element signature="e#5147#5319#0" />
+            <element signature="e#5333#5562#0" />
+            <element signature="e#5591#6886#0" />
+            <element signature="e#5789#5900#0" />
+            <element signature="e#5913#6054#0" />
+            <element signature="e#6067#6226#0" />
+            <element signature="e#6239#6426#0" />
+            <element signature="e#6439#6625#0" />
+            <element signature="e#6638#6867#0" />
+            <element signature="e#6896#7122#0" />
+            <element signature="e#7132#7626#0" />
+            <element signature="e#7279#7606#0" />
+            <element signature="e#7636#8002#0" />
+            <element signature="e#7719#7983#0" />
+            <element signature="e#7841#7954#0" />
+            <element signature="e#8012#9578#0" />
+            <element signature="e#8353#8512#0" />
+            <element signature="e#8525#8680#0" />
+            <element signature="e#8693#9417#0" />
+            <element signature="e#9430#9559#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-965" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wearable/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

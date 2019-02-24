@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "R:\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw210dp-v13\\values-sw210dp-v13.xml",
+            "outputFile": "D:\\AndroidStudioProjects\\WatchFace\\Wearable\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw210dp-v13\\values-sw210dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Kenzy\\.gradle\\caches\\transforms-1\\files-1.1\\wear-27.1.0.aar\\f4add192c7618d700c8eafa81d73a0fc\\res\\values-sw210dp-v13\\values-sw210dp-v13.xml",
