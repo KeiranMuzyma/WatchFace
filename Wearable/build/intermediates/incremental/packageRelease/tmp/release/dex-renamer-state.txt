@@ -1,0 +1,4 @@
+#Sun Feb 24 18:31:36 JST 2019
+base.0=R\:\\WatchFace\\Wearable\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex

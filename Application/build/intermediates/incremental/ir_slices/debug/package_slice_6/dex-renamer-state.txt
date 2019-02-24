@@ -1,0 +1,4 @@
+#Sun Feb 24 19:19:25 JST 2019
+base.0=R\:\\WatchFace\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,330 @@
+-- Merging decision tree log ---
+manifest
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-217:12
+INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-217:12
+INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-217:12
+MERGED from [com.android.support:palette-v7:27.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.0.aar\f6d7723cb5aa34f967ad464ef77ab391\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:wear:27.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\wear-27.1.0.aar\f4add192c7618d700c8eafa81d73a0fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-wearable-15.0.1.aar\405f4fbec3d966f97cce0855d6170adb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\21cd558e2199e59661965008a3072046\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b906829dcedb09e9244127e2577fa823\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\4cc1fe5ea1d883d45814ecc97803941c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8b7f247cfced6dda58ea45346aacb9b8\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\6c40d5dc2c10cab1b875b30193acac99\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\05848c1cf48b60aca0f04816d9c36620\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9f56d6201d0025c691f859bf79c894a9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\6141a277baebbc381ebbe15ed9810a8a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\af3159f55750810e7c6c1eee05a22049\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f082acc894de184c329934aa01796ee6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f2d39b75909e963c1254b02296aa2268\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\12dbd82f87cbc7499876cf32730cc58a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\105e6cce24bdc7b61cc127d5901a21fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8c4c2cae1c6cd8ecc8771b0bbf3bf209\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\106082eaf8d0c9e65215801892bef324\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\10452492776ad3c989e6c3183b9c40ad\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cfd9cefa1e28ff40ee297aeb1e5dd567\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b3b932e35365907d96c2ff5ff42efb9b\AndroidManifest.xml:17:1-22:12
+INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-217:12
+INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-217:12
+	package
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:17:11-59
+	android:versionName
+		INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-217:12
+		INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:17:1-217:12
+		INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:18:11-69
+uses-sdk
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:20:5-22:40
+INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:20:5-22:40
+INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:20:5-22:40
+MERGED from [com.android.support:palette-v7:27.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.0.aar\f6d7723cb5aa34f967ad464ef77ab391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.0.aar\f6d7723cb5aa34f967ad464ef77ab391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:wear:27.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\wear-27.1.0.aar\f4add192c7618d700c8eafa81d73a0fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:wear:27.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\wear-27.1.0.aar\f4add192c7618d700c8eafa81d73a0fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-wearable-15.0.1.aar\405f4fbec3d966f97cce0855d6170adb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-wearable-15.0.1.aar\405f4fbec3d966f97cce0855d6170adb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\21cd558e2199e59661965008a3072046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\21cd558e2199e59661965008a3072046\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b906829dcedb09e9244127e2577fa823\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b906829dcedb09e9244127e2577fa823\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\4cc1fe5ea1d883d45814ecc97803941c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\4cc1fe5ea1d883d45814ecc97803941c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8b7f247cfced6dda58ea45346aacb9b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8b7f247cfced6dda58ea45346aacb9b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\6c40d5dc2c10cab1b875b30193acac99\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\6c40d5dc2c10cab1b875b30193acac99\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\05848c1cf48b60aca0f04816d9c36620\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\05848c1cf48b60aca0f04816d9c36620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9f56d6201d0025c691f859bf79c894a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\9f56d6201d0025c691f859bf79c894a9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\6141a277baebbc381ebbe15ed9810a8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\6141a277baebbc381ebbe15ed9810a8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\af3159f55750810e7c6c1eee05a22049\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\af3159f55750810e7c6c1eee05a22049\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f082acc894de184c329934aa01796ee6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f082acc894de184c329934aa01796ee6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f2d39b75909e963c1254b02296aa2268\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f2d39b75909e963c1254b02296aa2268\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\12dbd82f87cbc7499876cf32730cc58a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\12dbd82f87cbc7499876cf32730cc58a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\105e6cce24bdc7b61cc127d5901a21fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\105e6cce24bdc7b61cc127d5901a21fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8c4c2cae1c6cd8ecc8771b0bbf3bf209\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8c4c2cae1c6cd8ecc8771b0bbf3bf209\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\106082eaf8d0c9e65215801892bef324\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\106082eaf8d0c9e65215801892bef324\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\10452492776ad3c989e6c3183b9c40ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\10452492776ad3c989e6c3183b9c40ad\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cfd9cefa1e28ff40ee297aeb1e5dd567\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cfd9cefa1e28ff40ee297aeb1e5dd567\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b3b932e35365907d96c2ff5ff42efb9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b3b932e35365907d96c2ff5ff42efb9b\AndroidManifest.xml:20:5-44
+INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:20:5-22:40
+INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:20:5-22:40
+	android:targetSdkVersion
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:22:9-38
+		INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml
+		INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:21:9-35
+		INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml
+		INJECTED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml
+uses-feature#android.hardware.type.watch
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:24:5-63
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:24:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:27:22-65
+uses-permission#com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:30:5-103
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:30:22-101
+application
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:32:5-216:19
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-wearable-15.0.1.aar\405f4fbec3d966f97cce0855d6170adb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-wearable-15.0.1.aar\405f4fbec3d966f97cce0855d6170adb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b906829dcedb09e9244127e2577fa823\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b906829dcedb09e9244127e2577fa823\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8b7f247cfced6dda58ea45346aacb9b8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8b7f247cfced6dda58ea45346aacb9b8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\6c40d5dc2c10cab1b875b30193acac99\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\6c40d5dc2c10cab1b875b30193acac99\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\05848c1cf48b60aca0f04816d9c36620\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\05848c1cf48b60aca0f04816d9c36620\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\6141a277baebbc381ebbe15ed9810a8a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:percent:26.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\6141a277baebbc381ebbe15ed9810a8a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8c4c2cae1c6cd8ecc8771b0bbf3bf209\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\8c4c2cae1c6cd8ecc8771b0bbf3bf209\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:35:9-41
+	android:icon
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:34:9-45
+	android:allowBackup
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:33:9-35
+meta-data#com.google.android.wearable.standalone
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:36:9-38:35
+	android:value
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:38:13-33
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:37:13-66
+meta-data#com.google.android.gms.version
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:39:9-41:68
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\05848c1cf48b60aca0f04816d9c36620\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\05848c1cf48b60aca0f04816d9c36620\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:41:13-66
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:40:13-58
+uses-library#com.google.android.wearable
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:43:9-45:39
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b906829dcedb09e9244127e2577fa823\AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.3.0] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\wearable-2.3.0.aar\b906829dcedb09e9244127e2577fa823\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:44:13-55
+service#com.example.android.wearable.watchface.watchface.OpenGLWatchFaceService
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:47:9-69:19
+	android:label
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:49:13-48
+	android:permission
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:50:13-67
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:48:13-61
+meta-data#android.service.wallpaper
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:51:13-53:53
+	android:resource
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:53:17-51
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:52:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:54:13-56:62
+	android:resource
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:56:17-60
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:55:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:57:13-59:71
+	android:resource
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:58:17-86
+meta-data#com.google.android.wearable.watchface.companionConfigurationAction
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:60:13-62:87
+	android:value
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:62:17-85
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:61:17-98
+intent-filter#action:name:android.service.wallpaper.WallpaperService+category:name:com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:64:13-68:29
+action#android.service.wallpaper.WallpaperService
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:65:17-84
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:65:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:67:17-101
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:67:27-99
+service#com.example.android.wearable.watchface.watchface.AnalogComplicationWatchFaceService
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:70:9-93:19
+	android:enabled
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:72:13-35
+	android:label
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:73:13-56
+	android:permission
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:74:13-67
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:71:13-73
+meta-data#com.google.android.wearable.watchface.wearableConfigurationAction
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:84:13-86:100
+	android:value
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:86:17-98
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:85:17-97
+activity#android.support.wearable.complications.ComplicationHelperActivity
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:95:9-101
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:95:19-99
+activity#com.example.android.wearable.watchface.config.AnalogComplicationConfigActivity
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:96:9-105:20
+	android:label
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:98:13-63
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:97:13-68
+intent-filter#action:name:com.example.android.wearable.watchface.CONFIG_COMPLICATION_SIMPLE+category:name:android.intent.category.DEFAULT+category:name:com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:99:13-104:29
+action#com.example.android.wearable.watchface.CONFIG_COMPLICATION_SIMPLE
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:100:17-107
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:100:25-105
+category#com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:102:17-113
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:102:27-111
+category#android.intent.category.DEFAULT
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:103:17-75
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:103:27-73
+service#com.example.android.wearable.watchface.watchface.InteractiveWatchFaceService
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:107:9-126:19
+	android:label
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:109:13-53
+	android:permission
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:110:13-67
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:108:13-66
+service#com.example.android.wearable.watchface.watchface.DigitalWatchFaceService
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:128:9-153:19
+	android:label
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:130:13-49
+	android:permission
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:131:13-67
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:129:13-62
+activity#com.example.android.wearable.watchface.config.DigitalWatchFaceWearableConfigActivity
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:161:9-170:20
+	android:label
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:163:13-56
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:162:13-74
+intent-filter#action:name:com.example.android.wearable.watchface.CONFIG_DIGITAL+category:name:android.intent.category.DEFAULT+category:name:com.google.android.wearable.watchface.category.WEARABLE_CONFIGURATION
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:164:13-169:29
+action#com.example.android.wearable.watchface.CONFIG_DIGITAL
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:165:17-95
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:165:25-93
+service#com.example.android.wearable.watchface.config.DigitalWatchFaceConfigListenerService
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:172:9-181:19
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:172:18-78
+intent-filter#action:name:com.google.android.gms.wearable.MESSAGE_RECEIVED+data:host:*+data:pathPrefix:/+data:scheme:wear
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:173:13-180:29
+action#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:174:17-90
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:174:25-88
+data
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:176:17-179:44
+	android:host
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:177:21-37
+	android:scheme
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:179:21-42
+	android:pathPrefix
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:178:21-43
+service#com.example.android.wearable.watchface.provider.IncrementingNumberComplicationProviderService
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:183:9-212:19
+	android:label
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:186:13-79
+	android:permission
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:187:13-99
+	android:icon
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:185:13-55
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:184:13-83
+intent-filter#action:name:android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:188:13-190:29
+action#android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:189:17-115
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:189:25-113
+meta-data#android.support.wearable.complications.SUPPORTED_TYPES
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:192:13-194:68
+	android:value
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:194:17-66
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:193:17-86
+meta-data#android.support.wearable.complications.UPDATE_PERIOD_SECONDS
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:209:13-211:36
+	android:value
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:211:17-34
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:210:17-92
+receiver#com.example.android.wearable.watchface.provider.ComplicationToggleReceiver
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:213:9-72
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:213:19-70
+activity#com.example.android.wearable.watchface.config.ColorSelectionActivity
+ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:215:9-66
+	android:name
+		ADDED from R:\WatchFace\Wearable\src\main\AndroidManifest.xml:215:19-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8b7f247cfced6dda58ea45346aacb9b8\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8b7f247cfced6dda58ea45346aacb9b8\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8b7f247cfced6dda58ea45346aacb9b8\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\8b7f247cfced6dda58ea45346aacb9b8\AndroidManifest.xml:24:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:percent:26.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\6141a277baebbc381ebbe15ed9810a8a\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:percent:26.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\6141a277baebbc381ebbe15ed9810a8a\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:percent:26.0.2] C:\Users\Kenzy\.gradle\caches\transforms-1\files-1.1\percent-26.0.2.aar\6141a277baebbc381ebbe15ed9810a8a\AndroidManifest.xml:24:13-51
